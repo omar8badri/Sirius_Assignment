@@ -145,9 +145,6 @@ Sirius_Assignment/
 - **Chunked Processing**: Large datasets are processed in chunks
 - **Memory Management**: Pipeline includes garbage collection and memory monitoring
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🤝 Contributing
 
