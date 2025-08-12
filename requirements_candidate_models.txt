@@ -1,0 +1,22 @@
+# Additional dependencies for candidate models
+# Install with: pip install -r requirements_candidate_models.txt
+
+# LightGBM for gradient boosting
+lightgbm>=4.0.0
+
+# PyTorch for deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Astronomy library for sunrise/sunset calculations
+ephem>=4.1.4
+
+# Additional ML libraries
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: CUDA support for PyTorch (uncomment if you have CUDA)
+# torch>=2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html

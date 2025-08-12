@@ -1,0 +1,4 @@
+# Additional dependencies for solar radiation pipeline
+polars>=0.20.0
+pvlib>=0.10.0
+line_profiler>=4.0.0
